@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+
+APP_VERSION = "@VERSION@"
+data_dir="@datadir@"
+
+SETTINGS_IMPL = "GConf"

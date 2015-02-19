@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+#
+# Trello Notifier for GNOME @VERSION@
+#
+# Copyright (C) 2012 Luiz Armesto
+#
+
+from trellonotify import notifier
+notifier.main()

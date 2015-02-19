@@ -1,0 +1,31 @@
+README for TrelloNotify 0.0.1
+=======================
+
+DEPENDENCIES
+============
+python gtk
+python sqlite2
+
+INSTALLATION
+============
+See the 'INSTALL' file.
+
+
+HOW TO HELP
+===========
+You can report new bugs at
+ TODO
+
+I'm currently looking for people with the following skills:
+
+    * Packagers;
+    * Python Developers;
+    * Gtk Developers;
+    * Designers;
+
+Feel free to send patches.
+
+
+CONTACTS
+========
+TODO
